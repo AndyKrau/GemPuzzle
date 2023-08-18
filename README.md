@@ -1,2 +1,2 @@
 # GemPuzzle
-educational project in RS school #3
+https://andykrau.github.io/GemPuzzle/codejam-the-gem-puzzle/index.html
